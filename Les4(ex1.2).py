@@ -16,6 +16,6 @@ while a!='+':
         pprint('Yes')
     else:
         global_ms.append(a)
-        pprint('No')
+        pprint('This question has already been')
 #    pprint(global_ms)
     a=input()
